@@ -18,7 +18,7 @@
 
 <a align="center" href="https://official-interactive-card-alamin.netlify.app/">
 
-<img src="./screenshots/interactive-card-details-form-screenshot-compared-codepapa360.png"/>
+<img src="./screenshots/interactive-card-details-form-screenshot-compared-CodeWithAlamin.png"/>
 </a>
 
 ## The challenge
@@ -55,7 +55,7 @@ Overall, this project provided me with valuable experience in building interacti
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/Interactive-Card-details-form.git
+git clone https://github.com/CodeWithAlamin/Interactive-Card-details-form.git
 ```
 
 - Install dependencies:
@@ -80,10 +80,10 @@ npm start
 
 <b>👤 Alamin</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
@@ -97,4 +97,4 @@ Special thanks to Frontend Mentor for providing such an amazing platform to prac
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/CodePapa360/Interactive-Card-details-form/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
+This project is licensed under the [MIT](https://github.com/CodeWithAlamin/Interactive-Card-details-form/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
